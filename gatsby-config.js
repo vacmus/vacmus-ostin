@@ -2,9 +2,9 @@ var proxy = require("http-proxy-middleware")
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Stages de musique pour enfants cet été - Vacances Musicales au Château d\'Ostin',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Apprendre en s\'amusant, stages de musique d\'une semaine pour débutants ou instrumentistes confirmés.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
