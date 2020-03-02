@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Stages de musique pour enfants cet été, Vacances Musicales au Château d\'Ostin',
     description:
-      'Apprendre en s\'amusant, stages de musique d\'une semaine pour débutants ou instrumentistes confirmés.',
+      'Apprendre en s\'amusant, stages de musique d\'une semaine pour débutants et instrumentistes confirmés.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
